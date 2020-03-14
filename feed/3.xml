@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	
+
+	<title>2049BBS | 技术</title>
+
+	<link rel="self" type="application/atom+xml" href="https://2049bbs.github.io/feed/3.xml"/>
+	<link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+
+	<updated>2020-03-14T09:57:17+08:00</updated>
+
+	<id>https://2049bbs.github.io/feed/3.xml</id>
+
+	<author>
+		<name>2049BBS</name>
+	</author>
+	
+	
+    
+	<entry>
+		<title>[转]任何人都可以用 OnionShare 新版轻松发布匿名、无审查网站</title>
+		<id>https://2049bbs.github.io/t/3449</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3449" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3449.html?env=dev" />
+		<published>2020-03-13T14:30:00+08:00</published>
+		<updated>2020-03-13T17:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;原文标题：New version of OnionShare makes it easy for anyone to publish anonymous, uncensorable websites&lt;/p&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&quot;https://micahflee.com/2019/10/new-version-of-onionshare-makes-it-easy-fo...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>如何知道手机是否被监听？</title>
+		<id>https://2049bbs.github.io/t/3255</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3255" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3255.html?env=dev" />
+		<published>2020-03-01T23:30:00+08:00</published>
+		<updated>2020-03-13T09:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;手机连接数据网络或者WIFI，且手机不处于通话状态，能保证不被监听么？&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>经鉴定这个币是空气币</title>
+		<id>https://2049bbs.github.io/t/3433</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3433" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3433.html?env=dev" />
+		<published>2020-03-12T22:45:00+08:00</published>
+		<updated>2020-03-12T22:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://m.feixiaohao.com/currencies/dero/&quot;&gt;https://m.feixiaohao.com/currencies/dero/&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>实测DoH+esni可以直连2049bbs，地下读书会俨然</title>
+		<id>https://2049bbs.github.io/t/1906</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1906" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1906.html?env=dev" />
+		<published>2019-11-21T11:45:00+08:00</published>
+		<updated>2020-03-11T15:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;搭建完毕了。再来个定向地推就成了&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>部分折叠语法</title>
+		<id>https://2049bbs.github.io/t/3405</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3405" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3405.html?env=dev" />
+		<published>2020-03-11T12:30:00+08:00</published>
+		<updated>2020-03-11T14:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://gist.github.com/ericclemmons/b146fe5da72ca1f706b2ef72a20ac39d&quot;&gt;https://gist.github.com/ericclemmons/b146fe5da72ca1f706b2ef72a20ac39d&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;如果你的回复太长，可以选择摘要+折叠明细的做法，具体语法是：&lt;/...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>这样的网络使用策略，安全性怎么样？</title>
+		<id>https://2049bbs.github.io/t/2763</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2763" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2763.html?env=dev" />
+		<published>2020-02-01T20:45:00+08:00</published>
+		<updated>2020-03-07T07:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;我人在国外，不需要翻墙，但是仍然不想让数字极权来统治我，不管是中国还是美国的。因此我在用这样的网络策略。我想听下大家的意见。&lt;/p&gt;
+
+&lt;p&gt;首先假设我在一个安全的网络环境中（比如说加密无线网）。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;使用国内社交媒体时，不使用VPN。没办法，跟国内的联系太多，无法完全不使用。虽然我已经实名了，但是像我一样的海外中国人很多，只要不发布敏感信息就没有问题；&lt;/...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>活跃在推特上的内地不合作工程师清单（时更</title>
+		<id>https://2049bbs.github.io/t/3308</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3308" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3308.html?env=dev" />
+		<published>2020-03-06T12:15:00+08:00</published>
+		<updated>2020-03-06T12:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://mobile.twitter.com/gexiao2b&quot;&gt;https://mobile.twitter.com/gexiao2b&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>如果评价 iYouPort 在 rss 推送中使用 UTM 追踪器？</title>
+		<id>https://2049bbs.github.io/t/3274</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3274" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3274.html?env=dev" />
+		<published>2020-03-04T06:00:00+08:00</published>
+		<updated>2020-03-05T00:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;还是说这是 WordPress 的默认配置？我不懂网页。&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>怎么知道一个URL是否安全呢？</title>
+		<id>https://2049bbs.github.io/t/3270</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3270" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3270.html?env=dev" />
+		<published>2020-03-04T01:15:00+08:00</published>
+		<updated>2020-03-05T00:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;论坛上好像有五毛出现，就怕被钓鱼了 ༼ ಠ ▃ ಠೃ ༽&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>隐私友好的流量分析工具Ticksel</title>
+		<id>https://2049bbs.github.io/t/2515</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2515" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2515.html?env=dev" />
+		<published>2020-01-15T10:30:00+08:00</published>
+		<updated>2020-03-03T19:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://www.ticksel.com/&quot;&gt;https://www.ticksel.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We don’t track your visitors with cookies&lt;/p&gt;
+
+&lt;p&gt;In order to collect data, we don’t invade the privacy of your visitors b...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>网络离彻底被封死还有多远？</title>
+		<id>https://2049bbs.github.io/t/3215</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3215" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3215.html?env=dev" />
+		<published>2020-02-29T01:45:00+08:00</published>
+		<updated>2020-02-29T18:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;中国政府的技术真是越来越可怕了。 几天前还能用的VPN，转眼就不能用了&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>用新出的VPN，有什么办法可以避免遇到蜜罐？</title>
+		<id>https://2049bbs.github.io/t/3221</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3221" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3221.html?env=dev" />
+		<published>2020-02-29T01:45:00+08:00</published>
+		<updated>2020-02-29T01:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;有网友因为用了蜜罐VPN，被喝茶么？&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>fastpages配合GitHub快速搭建博客</title>
+		<id>https://2049bbs.github.io/t/3207</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3207" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3207.html?env=dev" />
+		<published>2020-02-29T01:45:00+08:00</published>
+		<updated>2020-02-29T01:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;An easy to use blogging platform with extra features for Jupyter Notebooks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/fastai/fastpages/raw/master/images/diagram.png&quot; alt=&quot;&quot; /&gt; Fastpages 使用 nbdev 把 Ju...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>一个技术简单的有用服务，谁有空做？</title>
+		<id>https://2049bbs.github.io/t/3164</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3164" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3164.html?env=dev" />
+		<published>2020-02-29T01:45:00+08:00</published>
+		<updated>2020-02-29T01:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;我想到一个有用的工具，但自己懒得动手。看看谁有兴趣做：&lt;/p&gt;
+
+&lt;p&gt;用途：敏感词解码。&lt;/p&gt;
+
+&lt;p&gt;刚刚看到墙内有些网站敏感词屏蔽得丧心病狂，例如：给你量一××温，其实这个很容易破。思路如下：&lt;/p&gt;
+
+&lt;p&gt;1、学习大量语料，只要把语料里所有连续二至六个字的串（不含标点）都存下来，每个串出现的频率可以不存。&lt;/p&gt;
+
+&lt;p&gt;语料可以偏向特定的类型，例如你特别喜欢小黄文，可以开...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>怎么在墙内分享敏感视频？</title>
+		<id>https://2049bbs.github.io/t/3062</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3062" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3062.html?env=dev" />
+		<published>2020-02-17T22:15:00+08:00</published>
+		<updated>2020-02-29T01:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;RT 向墙内朋友分享视频。墙内聊天工具（QQ等）会和谐视频内容。墙内视频网站自然无法上传。 有没有临时视频分享站？就像图床或者 Telegra.ph 这样的文字分享平台？&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>【备份之法汇总帖】请列出你推荐使用的网页备份工具</title>
+		<id>https://2049bbs.github.io/t/2805</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2805" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2805.html?env=dev" />
+		<published>2020-02-03T23:15:00+08:00</published>
+		<updated>2020-02-29T01:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;唔…还是觉得这些工具略分散，专门开帖收集（征集）。请各位看官列出你推荐使用的网页备份工具。&lt;/p&gt;
+
+&lt;p&gt;基本前提：&lt;strong&gt;自己在使用&lt;/strong&gt;、&lt;strong&gt;且认为值得推荐&lt;/strong&gt;的工具。&lt;/p&gt;
+
+&lt;p&gt;描述格式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;工具名称：&lt;/li&gt;
+  &lt;li&gt;工具类型：插件名称（附链接更好）、网站平台、bot、小程序、……&lt;/li...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>用阿里云的节点翻墙访问了2049，还安全吗？</title>
+		<id>https://2049bbs.github.io/t/2098</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2098" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2098.html?env=dev" />
+		<published>2019-12-03T14:30:00+08:00</published>
+		<updated>2020-02-29T01:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2019/12/03/9DCiHx4PrKIbAj3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;访问的时候选错节点了选成了阿里云香港节点&quot;&gt;&lt;a href=&quot;#%E8%AE%BF%E9%97%AE%E7%9A%84%E6%97%B6%E5%80%99%E9%80%89%E9%94%99%E8%8A%82%E7%82...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>大家关注一下这方面软件</title>
+		<id>https://2049bbs.github.io/t/2078</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2078" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2078.html?env=dev" />
+		<published>2019-12-02T02:00:00+08:00</published>
+		<updated>2020-02-29T01:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;FireChat 与 Briar 一样，使用手机自带的 Wi-Fi 与 蓝牙进行互联互通，对于小范围内的通讯（ &amp;lt; 70 米），可以做到完全无需数据网络，无需连接互联网就可以实现，而更远距离的通信，则只需要有一名用户连接互联网，就能同步数据。也就是理论上如果有无限多的人使用 FireChat，那么就算全球断网，也都可以继续使用了，只不过通信效率取决于人流的移动。 链接 &lt;a hr...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>一些开源的加密即时通讯工具分享 (v2)</title>
+		<id>https://2049bbs.github.io/t/1891</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1891" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1891.html?env=dev" />
+		<published>2019-11-20T13:45:00+08:00</published>
+		<updated>2020-02-29T01:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;ol&gt;
+  &lt;li&gt;Wire: Electron+Javascript&lt;/li&gt;
+  &lt;li&gt;Gajim: Python&lt;/li&gt;
+  &lt;li&gt;RetroShare: C++&lt;/li&gt;
+  &lt;li&gt;Jami: C++&lt;/li&gt;
+  &lt;li&gt;Riot.im: Electron+Javascript&lt;/li&gt;
+  &lt;li&gt;Ricochet: C++&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;说明：我并没怎...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>如果你不是用tor+firefox在网上发言，请注意</title>
+		<id>https://2049bbs.github.io/t/1781</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1781" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1781.html?env=dev" />
+		<published>2019-11-13T00:00:00+08:00</published>
+		<updated>2020-02-29T01:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;WebRTC是一个标准化的浏览器api用于提供很多客户端和服务器之间的互动，但也容易造成隐私泄露。比如你去一些提供”anonymity test”的网站测试，会发现即使用v2ray/shadowsocks+cdn作为跳板，服务器仍然可以发现你的最原始ip地址。&lt;/p&gt;
+
+&lt;p&gt;可以安装插件来加以控制，对Chrome我用过“WebRTC leak protection”觉得不错。 测试的...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+
+</feed>

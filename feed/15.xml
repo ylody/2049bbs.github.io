@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	
+
+	<title>2049BBS | Geek</title>
+
+	<link rel="self" type="application/atom+xml" href="https://2049bbs.github.io/feed/15.xml"/>
+	<link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+
+	<updated>2020-03-14T09:57:17+08:00</updated>
+
+	<id>https://2049bbs.github.io/feed/15.xml</id>
+
+	<author>
+		<name>2049BBS</name>
+	</author>
+	
+	
+    
+	<entry>
+		<title>统计学的威力——利用本福特定律检查数据造假</title>
+		<id>https://2049bbs.github.io/t/2799</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2799" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2799.html?env=dev" />
+		<published>2020-02-03T12:45:00+08:00</published>
+		<updated>2020-03-07T16:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;在实际生活得出的数据中，不同数字开头的数字出现机率是有规律可循的。如果不遵从这个规律，那么就表明数据存在人为伪造。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;1935 年，美国的一位叫做本福特的物理学家在图书馆翻阅对数表时发现，对数表的头几页比后面的页更脏一些，这说明头几页在平时被更多的人翻阅。&lt;/p&gt;
+
+  &lt;p&gt;本福特再进一步研究后发现，只要数据的样本足够多，数据中以 1 为开...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>Library Genesis 图书添加指南</title>
+		<id>https://2049bbs.github.io/t/2214</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2214" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2214.html?env=dev" />
+		<published>2019-12-11T20:45:00+08:00</published>
+		<updated>2020-02-29T01:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://hackmd.io/@daidai/S1g0Xh7gX?type=view&quot;&gt;https://hackmd.io/@daidai/S1g0Xh7gX?type=view&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;在我看来，在 Library Genesis 上传资料有以下好处：&lt;/p&gt;
+
+  &lt;p&gt;快速，没有 Censorship 过程，立...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>免费看端传媒文章的方法</title>
+		<id>https://2049bbs.github.io/t/3094</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3094" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3094.html?env=dev" />
+		<published>2020-02-19T10:15:00+08:00</published>
+		<updated>2020-02-20T01:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;把文章链接发到 &lt;a href=&quot;https://t.me/chotamreaderbot&quot;&gt;https://t.me/chotamreaderbot&lt;/a&gt; 就完事了，输出全文telegraph&lt;/p&gt;
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>中乱文序成生器</title>
+		<id>https://2049bbs.github.io/t/2972</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2972" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2972.html?env=dev" />
+		<published>2020-02-12T13:45:00+08:00</published>
+		<updated>2020-02-12T23:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;一康个健社会的不该只有种一声音&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cnvoice.herokuapp.com/&quot;&gt;https://cnvoice.herokuapp.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;对于防和谐有用吗？&lt;/p&gt;
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>RIP</title>
+		<id>https://2049bbs.github.io/t/2887</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2887" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2887.html?env=dev" />
+		<published>2020-02-07T15:00:00+08:00</published>
+		<updated>2020-02-08T08:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://etherscan.io/address/0x6e46d3ab7335fffb0d14927e0b418cc08fe60505#code&quot;&gt;https://etherscan.io/address/0x6e46d3ab7335fffb0d14927e0b418cc08fe60505#code&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>solidot重建企划</title>
+		<id>https://2049bbs.github.io/t/1434</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1434" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1434.html?env=dev" />
+		<published>2019-09-23T09:44:00+08:00</published>
+		<updated>2020-02-07T16:45:00+08:00</updated>
+		<content type="text/html">
+		    
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>条件独立性跟肺炎死亡率</title>
+		<id>https://2049bbs.github.io/t/2821</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2821" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2821.html?env=dev" />
+		<published>2020-02-04T18:15:00+08:00</published>
+		<updated>2020-02-04T20:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;我受到了王垠的这篇文章的启发：&lt;a href=&quot;http://www.yinwang.org/blog-cn/2019/09/30/autopilot-responsibility&quot;&gt;自动驾驶车的责任和风险分析&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;这里我说的新冠肺炎死亡率是拿因肺炎死亡的人数，除以一个人群的总人口（比如武汉市）得到的，而不是除以感染者的人数。如果这么算，会发现这个比率相当低，甚至还...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>统计学的威力——德国坦克问题</title>
+		<id>https://2049bbs.github.io/t/2786</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2786" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2786.html?env=dev" />
+		<published>2020-02-02T22:30:00+08:00</published>
+		<updated>2020-02-03T13:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;二战中，盟军一直想知道德国的坦克产能，通过间谍得到的情报是每个月1400辆。但是统计学家通过战场上缴获或者被摧毁的坦克编号（德军坦克编号是顺序编号，这个现象也是通过变速箱和轮胎编号推断出来的），推断出在270左右。&lt;/p&gt;
+
+&lt;p&gt;战后分析发现，统计学家完胜。&lt;/p&gt;
+
+&lt;p&gt;参考资料：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.sciencenet.c...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>将Rich Text转化为Markdown的在线工具</title>
+		<id>https://2049bbs.github.io/t/2151</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2151" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2151.html?env=dev" />
+		<published>2019-12-07T09:30:00+08:00</published>
+		<updated>2020-01-31T21:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://euangoddard.github.io/clipboard2markdown/&quot;&gt;https://euangoddard.github.io/clipboard2markdown/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;用法很简单：复制网页内容，往上述页面粘贴就自动获得markdown源代码了&lt;/p&gt;
+
+&lt;p&gt;文科生有福了&lt;/p&gt;
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>流量分析和用户隐私 -- 简介</title>
+		<id>https://2049bbs.github.io/t/2612</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2612" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2612.html?env=dev" />
+		<published>2020-01-22T08:15:00+08:00</published>
+		<updated>2020-01-22T08:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;h2 id=&quot;流量分析&quot;&gt;&lt;a href=&quot;#%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90&quot;&gt;&lt;/a&gt;流量分析&lt;/h2&gt;
+
+&lt;p&gt;互联网行业常用Analytics来描述流量分析。流量分析的实现方式有多种：浏览器端、网页端、网络中、服务器端。&lt;/p&gt;
+
+&lt;h3 id=&quot;浏览器端&quot;&gt;&lt;a href=&quot;#%E6%B5%8F%E8%A7%88%E5%99%A8%E7%A...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>聚BT - 聚合最优质的BT、磁力资源</title>
+		<id>https://2049bbs.github.io/t/2505</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2505" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2505.html?env=dev" />
+		<published>2020-01-14T15:45:00+08:00</published>
+		<updated>2020-01-14T15:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://www.jubt.net/cn/index.html&quot;&gt;https://www.jubt.net/cn/index.html&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>反审查国际社群汇集</title>
+		<id>https://2049bbs.github.io/t/2431</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2431" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2431.html?env=dev" />
+		<published>2020-01-09T03:30:00+08:00</published>
+		<updated>2020-01-09T03:30:00+08:00</updated>
+		<content type="text/html">
+		    
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>可通过Tor访问的“阅后即焚”可替代网站</title>
+		<id>https://2049bbs.github.io/t/2353</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2353" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2353.html?env=dev" />
+		<published>2019-12-26T07:45:00+08:00</published>
+		<updated>2019-12-26T07:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;阅后即焚并不一定用 &lt;a href=&quot;https://zerobin.net/&quot;&gt;https://zerobin.net/&lt;/a&gt; , 替代品不少 &lt;a href=&quot;https://alternativeto.net/software/zerobin/&quot;&gt;https://alternativeto.net/software/zerobin/&lt;/a&gt; （zerobin的主要功能是代码/文...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>ink 写网页版互动小说</title>
+		<id>https://2049bbs.github.io/t/2297</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2297" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2297.html?env=dev" />
+		<published>2019-12-17T18:15:00+08:00</published>
+		<updated>2019-12-18T19:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;ink 写网页版互动小说：&lt;a href=&quot;https://www.inklestudios.com/ink/web-tutorial/&quot;&gt;https://www.inklestudios.com/ink/web-tutorial/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;使用说明中文版：&lt;a href=&quot;https://www.yuque.com/inky/pcke0w/gix3ga&quot;&gt;https:...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>Give Firefox A Chance For A Faster, Calmer And Distraction-Free Internet</title>
+		<id>https://2049bbs.github.io/t/1734</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1734" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1734.html?env=dev" />
+		<published>2019-11-11T00:00:00+08:00</published>
+		<updated>2019-12-12T04:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://marko.fyi/firefox/&quot;&gt;https://marko.fyi/firefox/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;firefox 浏览器是开源的、非营利组织开发的一款浏览器。关注用户隐私，默认拦截第三方跟踪脚本和cookie，这与google 的 chrome 浏览器跟踪一切的邪恶行径截然相反。&lt;/p&gt;
+
+&lt;p&gt;作者以 Wired.com 网站为例...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>0.1+0.2=0.30000000000000004</title>
+		<id>https://2049bbs.github.io/t/2092</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2092" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2092.html?env=dev" />
+		<published>2019-12-03T10:00:00+08:00</published>
+		<updated>2019-12-04T08:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://0.30000000000000004.com/&quot;&gt;https://0.30000000000000004.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;神奇的浮点数&lt;/p&gt;
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>Three Big Things: The Most Important Forces Shaping the World</title>
+		<id>https://2049bbs.github.io/t/1708</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1708" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1708.html?env=dev" />
+		<published>2019-11-08T00:00:00+08:00</published>
+		<updated>2019-11-10T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://www.collaborativefund.com/blog/three-big-things-the-most-important-forces-shaping-the-world/&quot;&gt;https://www.collaborativefund.com/blog/three-big-things-the-most-important-forces-s...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>Collapse OS: Bootstrap post-collapse technology</title>
+		<id>https://2049bbs.github.io/t/1580</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1580" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1580.html?env=dev" />
+		<published>2019-10-25T00:00:00+08:00</published>
+		<updated>2019-10-25T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://collapseos.org/&quot;&gt;https://collapseos.org/&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>&quot;Quantum Supremacy&quot; FQA</title>
+		<id>https://2049bbs.github.io/t/1441</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1441" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1441.html?env=dev" />
+		<published>2019-09-25T09:26:00+08:00</published>
+		<updated>2019-09-25T09:32:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://www.scottaaronson.com/blog/?p=4317&quot;&gt;https://www.scottaaronson.com/blog/?p=4317&lt;/a&gt; too many media blow-ups in post-quantum encryption these days&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;文章的内容是量子计...
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+	<entry>
+		<title>用rust写的reddit超轻型替代品</title>
+		<id>https://2049bbs.github.io/t/1139</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1139" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1139.html?env=dev" />
+		<published>2019-04-18T09:44:00+08:00</published>
+		<updated>2019-05-09T21:23:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://github.com/dessalines/lemmy&quot;&gt;https://github.com/dessalines/lemmy&lt;/a&gt; 不过看起来更像 hacker news&lt;/p&gt;
+
+		</content>
+		<category term="Geek" />
+    </entry>
+    
+
+</feed>

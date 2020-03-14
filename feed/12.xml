@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	
+
+	<title>2049BBS | 分享创造</title>
+
+	<link rel="self" type="application/atom+xml" href="https://2049bbs.github.io/feed/12.xml"/>
+	<link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+
+	<updated>2020-03-14T09:57:17+08:00</updated>
+
+	<id>https://2049bbs.github.io/feed/12.xml</id>
+
+	<author>
+		<name>2049BBS</name>
+	</author>
+	
+	
+    
+	<entry>
+		<title>2049BBS 的墙内镜像站</title>
+		<id>https://2049bbs.github.io/t/1420</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1420" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1420.html?env=dev" />
+		<published>2019-09-10T12:10:00+08:00</published>
+		<updated>2020-03-11T15:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://github.com/2049bbs/2049bbs.github.io&quot;&gt;https://github.com/2049bbs/2049bbs.github.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://2049bbs.github.io&quot;&gt;https://2049bbs.github.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;在每天中午12点...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>绝非偶然 （3）（原创小说，未完待续）</title>
+		<id>https://2049bbs.github.io/t/3322</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3322" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3322.html?env=dev" />
+		<published>2020-03-07T06:15:00+08:00</published>
+		<updated>2020-03-08T00:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;回到家，嘉映马上换下裙子扔进一个脸盆里，把校服也泡在一起，想一下又拎出来，各用一个盆子泡着。&lt;/p&gt;
+
+&lt;p&gt;妈妈回来，问：“怎么不放在一起洗？浪费水。”&lt;/p&gt;
+
+&lt;p&gt;“我今天不方便，裙子脏了，校服一起洗也会弄脏。”嘉映答。&lt;/p&gt;
+
+&lt;p&gt;晾衣服的时候，嘉映特意把校服皱皱巴巴地挂起来。&lt;/p&gt;
+
+&lt;p&gt;“这么晾怎么能晾干啊，而且干了也跟抹布似的！”妈妈笑话她，进厨房炒菜去了。&lt;/...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>一生中后悔的事（原创短篇）</title>
+		<id>https://2049bbs.github.io/t/3172</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3172" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3172.html?env=dev" />
+		<published>2020-02-29T01:45:00+08:00</published>
+		<updated>2020-03-07T04:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;Floris走进公共厨房的时候，我正在厨房桌上一个人自斟自饮。&lt;/p&gt;
+
+&lt;p&gt;“还没睡？” Floris问。&lt;/p&gt;
+
+&lt;p&gt;“想这里先呆一会儿。你也来一杯吗？”我问，“我还有大半瓶，正愁今天喝不完。”&lt;/p&gt;
+
+&lt;p&gt;“看你一个人怪可怜，好吧！”他笑笑，取了一支酒杯走过来，我给他斟上。&lt;/p&gt;
+
+&lt;p&gt;“一个人喝酒，最容易想到一生中后悔过的事，那种感觉，像刀口猛一下抹过心口。”我说...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>隆重推出基于Hacker News排序算法的BE4新闻站</title>
+		<id>https://2049bbs.github.io/t/3067</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3067" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3067.html?env=dev" />
+		<published>2020-02-18T03:45:00+08:00</published>
+		<updated>2020-03-06T12:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://be4-news.herokuapp.com/&quot;&gt;https://be4-news.herokuapp.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hacker News排序算法结合时间和热度两个维度对帖子进行排序，从而避免刷屏或垃圾信息之类的信息污染问题，能够通过社区的力量筛选出最新鲜最受关注的时事新闻。&lt;/p&gt;
+
+&lt;h2 id=&quot;另附-网页存档工具&quot;&gt;&lt;a ...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>新年开新坑——1984BBS 备份站</title>
+		<id>https://2049bbs.github.io/t/2384</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2384" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2384.html?env=dev" />
+		<published>2020-01-02T00:45:00+08:00</published>
+		<updated>2020-03-06T12:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://terminus2049.github.io/1984bbs/&quot;&gt;https://terminus2049.github.io/1984bbs/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;啊，1984BBS 关站已经十年了，当年拿爹妈帐号潜水的小屁孩长大了，得空整理了一下 &lt;a href=&quot;https://github.com/howardrotterdam/backu...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>Monika与爱尔兰咖啡（原创短篇）</title>
+		<id>https://2049bbs.github.io/t/3295</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3295" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3295.html?env=dev" />
+		<published>2020-03-05T19:30:00+08:00</published>
+		<updated>2020-03-05T19:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;冬天山上的日子难熬，每隔几天下山进城，就是我们难得的放风时间。&lt;/p&gt;
+
+&lt;p&gt;这天日程很满，早上六点天还没亮就要出发。&lt;/p&gt;
+
+&lt;p&gt;不料来早了，要参观的教堂还没开门，老师特赦了30分钟自由时间。&lt;/p&gt;
+
+&lt;p&gt;路上看到一家有着四瓣绿叶子标志的店，Monika说，我们在这里吃早餐吧。&lt;/p&gt;
+
+&lt;p&gt;“爱尔兰酒吧？”&lt;/p&gt;
+
+&lt;p&gt;“嗯。”&lt;/p&gt;
+
+&lt;p&gt;坐下来，Monika...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>绝非偶然 2 （原创小说，未完待续）</title>
+		<id>https://2049bbs.github.io/t/3222</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3222" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3222.html?env=dev" />
+		<published>2020-02-29T01:45:00+08:00</published>
+		<updated>2020-02-29T01:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;嘉映关上自己房间的门，坐在床沿上。头顶惨白的日光灯劈头盖脸地照射下来，吸走脸上全部血色。&lt;/p&gt;
+
+&lt;p&gt;两年前搬进来的时候，妈妈执意给她的房间添置一张不符合房间比例的超大双人床，为的是将来“一步到位”。&lt;/p&gt;
+
+&lt;p&gt;上一代的中国人，大概日子太单调，只能够想象出交媾和生育这种生物本能，中间的择偶浪漫阶段，都是天方夜谭。&lt;/p&gt;
+
+&lt;p&gt;小时候，嘉映接受过的婚恋教育，跟现在完全相反。...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>绝非偶然 1（原创小说，未完待续）</title>
+		<id>https://2049bbs.github.io/t/3194</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3194" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3194.html?env=dev" />
+		<published>2020-02-29T01:45:00+08:00</published>
+		<updated>2020-02-29T01:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;每次火车经过J市火车站，嘉映都不看窗外。只要有得选，宁可绕路，她也不愿意经过这个车站。&lt;/p&gt;
+
+&lt;p&gt;Mark住在那里。&lt;/p&gt;
+
+&lt;p&gt;六年前，她带着两个行李箱来到这个城市；六年后她带着两个行李箱离开，甚至里面的东西都差不多。&lt;/p&gt;
+
+&lt;p&gt;六年期间，她已经逐渐在J市站稳脚跟。很少有人能用国内的文凭找到欧洲当地的工作，嘉映却做到了。在国内是她在一家公司管理库存，这种库存管理软件全...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>有故事的乔（原创短篇）</title>
+		<id>https://2049bbs.github.io/t/3045</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3045" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3045.html?env=dev" />
+		<published>2020-02-16T19:45:00+08:00</published>
+		<updated>2020-02-16T22:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;在这里，感情不是吃饭吃出来的，而是餐后酒中聊出来的。&lt;/p&gt;
+
+&lt;p&gt;我对酒没有什么研究，但佛罗伦萨的杂货店藏龙卧虎，随便抽出一瓶都会不让人失望。&lt;/p&gt;
+
+&lt;p&gt;今天的主题是：你听过的最动人的情话。&lt;/p&gt;
+
+&lt;p&gt;酒光摇曳中，“乔将杯中酒一饮而尽：这酒不错，值得一句真心话。”&lt;/p&gt;
+
+&lt;p&gt;初见乔时，就知道她是个有故事的人。她身材线长，纤腰一握，黑色披肩长发，白色衬衫下搭盖过脚踝...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>端点星存档 telegram 机器人</title>
+		<id>https://2049bbs.github.io/t/2849</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2849" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2849.html?env=dev" />
+		<published>2020-02-05T18:00:00+08:00</published>
+		<updated>2020-02-05T18:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;发送网址给机器人即可&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://t.me/Private_archive_Bot&quot;&gt;https://t.me/Private_archive_Bot&lt;/a&gt; 可以将文章自动保存在三个平台并返回链接，并且可以在&lt;a href=&quot;http://206.189.252.32:8084/&quot;&gt;http://206.189.2...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>Monika的牙医（原创短篇）</title>
+		<id>https://2049bbs.github.io/t/2823</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2823" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2823.html?env=dev" />
+		<published>2020-02-04T20:45:00+08:00</published>
+		<updated>2020-02-04T23:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;“干杯！“&lt;/p&gt;
+
+&lt;p&gt;Monika求婚成功，Sabina和我当然要替她庆祝一番，开了一瓶香槟。&lt;/p&gt;
+
+&lt;p&gt;“有照片没？让我们看看你的未婚夫。”&lt;/p&gt;
+
+&lt;p&gt;Monika笑着递过她的手机。屏保是一个个子高高的男人，身穿绿色的制服，身处一个牙医诊所一样的空间里，肤色是健康的小麦色，咧嘴笑着，露出一口整齐的白牙。&lt;/p&gt;
+
+&lt;p&gt;“他是一个牙医？”&lt;/p&gt;
+
+&lt;p&gt;Monik...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>Monika的久别重逢（原创短篇）</title>
+		<id>https://2049bbs.github.io/t/2744</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2744" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2744.html?env=dev" />
+		<published>2020-01-30T23:45:00+08:00</published>
+		<updated>2020-01-31T00:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;翌日午后，在饭厅的长沙发上，Monika给我详细讲述了她与旧情人重逢的故事，下面的“我”，是Monika：&lt;/p&gt;
+
+&lt;p&gt;我们的分手，算好也不算好。从好的方面看，我们分得很和平，甚至还相约未来不定期再见面，尽管不知是何时；从坏的方面看，我们是通过电话分手，是的，他连见我的勇气都没有。&lt;/p&gt;
+
+&lt;p&gt;两年后，我在当地的大教堂找到了一份实习，这份工作听起来很酷，实际上你知道，我并非神职...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>三个男老师（原创短篇）</title>
+		<id>https://2049bbs.github.io/t/2743</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2743" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2743.html?env=dev" />
+		<published>2020-01-30T22:30:00+08:00</published>
+		<updated>2020-01-31T00:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;早上一推开大门，含氧量过高的清冷空气就顺着鼻腔直冲天灵盖，吸上一口简直能嗨起来。&lt;/p&gt;
+
+&lt;p&gt;Sabina，Monika和我三个人一起去附近吃早餐。佛罗伦萨的的Café都是叫Bar，一大早我们就去“Bar”，听上去简直羡慕死人。&lt;/p&gt;
+
+&lt;p&gt;我本是喝茶的人，去国多年也改变不了的习惯，在佛罗伦萨给掰过来了。我们三人一人一杯Cappuccino，我点了一个里面灌了奶油的羊角面包，S...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>旧情人 （原创短篇）</title>
+		<id>https://2049bbs.github.io/t/2726</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2726" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2726.html?env=dev" />
+		<published>2020-01-29T05:30:00+08:00</published>
+		<updated>2020-01-30T04:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;Monika问我：“你有没有跟旧男友复合过？”&lt;/p&gt;
+
+&lt;p&gt;“没有。“&lt;/p&gt;
+
+&lt;p&gt;“从来没有过？再也没联系过？”&lt;/p&gt;
+
+&lt;p&gt;“总会有联系，有打过电话的，发过短信问候的，街上遇到的，宴会上碰到的。”&lt;/p&gt;
+
+&lt;p&gt;“一个复合的机会都没有？”&lt;/p&gt;
+
+&lt;p&gt;“好几次差一点。”我眨眨眼。&lt;/p&gt;
+
+&lt;p&gt;“哦？怎么个差一点儿法？” Monika的八卦少女心勾起来了。&lt;/p...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>Monika的求婚 （原创短篇）</title>
+		<id>https://2049bbs.github.io/t/2663</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2663" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2663.html?env=dev" />
+		<published>2020-01-24T20:30:00+08:00</published>
+		<updated>2020-01-26T12:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;初冬的佛罗伦萨山上，不过零上一二度。这晚大家都没有出门，聚在厨房外饭厅里游戏闲聊。大家在玩一种政治版的真心话大冒险纸牌游戏，可惜牌面是意大利文的，我不懂，于是就和Monica 就坐在长沙发上闲聊。 游戏听起来很刺激，有人大笑大叫，输了的人不服气的说：“哪里产的纸牌？简直是propaganda!“&lt;/p&gt;
+
+&lt;p&gt;Floris问我们要不要喝薄荷茶，他刚买了新鲜的薄荷叶子，Monika冲他...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>温柔的病毒 （原创短篇）</title>
+		<id>https://2049bbs.github.io/t/2653</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2653" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2653.html?env=dev" />
+		<published>2020-01-23T20:15:00+08:00</published>
+		<updated>2020-01-23T20:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;我与Floris相处短暂且无关风月，但时常会觉得，一个男生给人的表面印象，就应该这样清爽和温柔。&lt;/p&gt;
+
+&lt;p&gt;时至今日，回想起来，Floris给我的见面礼，居然是感冒病毒。&lt;/p&gt;
+
+&lt;p&gt;当时研究所的大厅里熙熙攘攘，我早到了一天，就义务帮着学校迎接跟我同一批的短期课程新生。所谓的迎接，不过是做一下登记，帮忙指一下宿舍和厨房的位置，教一下怎么在图书馆借书而已。&lt;/p&gt;
+
+&lt;p&gt;一个...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>男人的味道 （原创短篇）</title>
+		<id>https://2049bbs.github.io/t/2636</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2636" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2636.html?env=dev" />
+		<published>2020-01-23T01:15:00+08:00</published>
+		<updated>2020-01-23T16:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;那年初冬，在佛罗伦萨郊外山上的小酒馆里，我和Monika边喝东西边聊天。我们都是异乡人，为了一个短期国际课程而聚到一起，我们还被分到了同一间宿舍。时间虽短，但朝夕相处，很快就熟稔了。&lt;/p&gt;
+
+&lt;p&gt;酒单送来，我们都被新鲜的鸡尾酒名字吸引住了， Monika点了一杯Passion Spirit, 我点了一杯First Love.&lt;/p&gt;
+
+&lt;p&gt;饮料上来了，我和Monika互相尝了一口...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>新年开新坑 Awesome-Social-Impact 社会议题相关的 GitHub 项目</title>
+		<id>https://2049bbs.github.io/t/2381</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2381" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2381.html?env=dev" />
+		<published>2020-01-01T14:30:00+08:00</published>
+		<updated>2020-01-12T03:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://github.com/Terminus2049/Awesome-Social-Impact&quot;&gt;https://github.com/Terminus2049/Awesome-Social-Impact&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;凝聚每一个人的力量，让每一个个体都能参与到社会变革中来。找到你关心的议题，参与进来。欢迎提交社会议题相关的 GitHub 项目。...
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>达摩俱乐部</title>
+		<id>https://2049bbs.github.io/t/2289</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2289" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2289.html?env=dev" />
+		<published>2019-12-17T09:15:00+08:00</published>
+		<updated>2020-01-11T09:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://damoresclub.github.io/about/&quot;&gt;https://damoresclub.github.io/about/&lt;/a&gt; @&lt;a href=&quot;/member/%E9%80%BB%E8%BE%91%E6%80%9D%E7%BB%B4&quot;&gt;逻辑思维&lt;/a&gt; 拼拼凑凑大概是这个意思&lt;/p&gt;
+
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+	<entry>
+		<title>逼王</title>
+		<id>https://2049bbs.github.io/t/2349</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2349" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2349.html?env=dev" />
+		<published>2019-12-25T00:15:00+08:00</published>
+		<updated>2020-01-03T10:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://www.taobihu.com/m/%E9%80%BC%E4%B9%8E&quot;&gt;https://www.taobihu.com/m/逼乎&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+		<category term="分享创造" />
+    </entry>
+    
+
+</feed>

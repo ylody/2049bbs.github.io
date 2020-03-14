@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	
+
+	<title>2049BBS | 站务</title>
+
+	<link rel="self" type="application/atom+xml" href="https://2049bbs.github.io/feed/13.xml"/>
+	<link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+
+	<updated>2020-03-14T09:57:17+08:00</updated>
+
+	<id>https://2049bbs.github.io/feed/13.xml</id>
+
+	<author>
+		<name>2049BBS</name>
+	</author>
+	
+	
+    
+	<entry>
+		<title>2049bbs 习惯法</title>
+		<id>https://2049bbs.github.io/t/1564</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1564" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1564.html?env=dev" />
+		<published>2019-10-22T00:00:00+08:00</published>
+		<updated>2020-03-10T06:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;ul&gt;
+  &lt;li&gt;【RFC-001】禁止阴谋论 相关讨论：&lt;a href=&quot;https://2049bbs.xyz/t/1516&quot;&gt;https://2049bbs.xyz/t/1516&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;【RFC-002】时政新闻类发帖需要附上来源链接 相关讨论：&lt;a href=&quot;https://2049bbs.xyz/t/1538&quot;&gt;https://2049bbs.xyz/...
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>折叠功能和回帖不顶帖用户组已上线</title>
+		<id>https://2049bbs.github.io/t/2439</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2439" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2439.html?env=dev" />
+		<published>2020-01-10T01:00:00+08:00</published>
+		<updated>2020-03-08T15:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;如果有争议操作出现，各位可以提 RFC。&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>公开封禁和不顶帖用户组列表</title>
+		<id>https://2049bbs.github.io/t/3317</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3317" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3317.html?env=dev" />
+		<published>2020-03-06T23:15:00+08:00</published>
+		<updated>2020-03-08T10:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;可在「关于」中找到受限用户列表&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://2049bbs.xyz/user/list&quot;&gt;https://2049bbs.xyz/user/list&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;关于不顶帖用户组，请见 &lt;a href=&quot;https://2049bbs.xyz/t/2439&quot;&gt;https://2049bbs.xyz/t/2439&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;...
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>本站是否禁止阴谋论？</title>
+		<id>https://2049bbs.github.io/t/1516</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1516" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1516.html?env=dev" />
+		<published>2019-10-18T14:28:00+08:00</published>
+		<updated>2020-03-05T16:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;已知阴谋论散播用户：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://2049bbs.xyz/member/2156&quot;&gt;https://2049bbs.xyz/member/2156&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://2049bbs.xyz/member/1438&quot;&gt;https://2049bbs.xyz/member/1438&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a ...
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>专门开一帖讨论2049bbs的发展</title>
+		<id>https://2049bbs.github.io/t/1815</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1815" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1815.html?env=dev" />
+		<published>2019-11-16T03:30:00+08:00</published>
+		<updated>2020-03-05T12:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;2049bbs原本是一个网络支点，靠低活跃度排除宣传帐号，保持高信噪比，实际上成为了高效能人士的汇集地。现在考虑用多层次“事业群”的发展概念来保存原有的价值，开辟新的功能。关键是分析需求，然后找到最佳的现成工具去满足已有需求。能用现成的代码就别自己开发，尤其是站长自学go来改变2049bbs这种方式不可取。&lt;/p&gt;
+
+&lt;p&gt;先前的讨论分散在不同帖子内，现统一汇集到此。充分论证。&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>建议默认搜索引擎改为duck</title>
+		<id>https://2049bbs.github.io/t/3216</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3216" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3216.html?env=dev" />
+		<published>2020-02-29T01:45:00+08:00</published>
+		<updated>2020-02-29T01:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;google不够安全？&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>站内搜索改用 Google 搜索</title>
+		<id>https://2049bbs.github.io/t/1069</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1069" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1069.html?env=dev" />
+		<published>2019-03-16T20:13:00+08:00</published>
+		<updated>2020-02-29T01:45:00+08:00</updated>
+		<content type="text/html">
+		    
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>要不要再开一个分区， 用来当垃圾回收？</title>
+		<id>https://2049bbs.github.io/t/3111</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3111" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3111.html?env=dev" />
+		<published>2020-02-20T04:15:00+08:00</published>
+		<updated>2020-02-20T04:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;水区本来是大家随意发言的，和垃圾场还是不一样。 搞个垃圾回收，不对外开放&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>使用指南</title>
+		<id>https://2049bbs.github.io/t/8</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/8" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/8.html?env=dev" />
+		<published>2018-01-11T08:58:00+08:00</published>
+		<updated>2020-02-10T01:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;请在提交前善用&lt;strong&gt;预览功能&lt;/strong&gt;。&lt;strong&gt;帖子一经提交不可再次编辑，也不能自行删除&lt;/strong&gt;。如有特殊删除需求可以 at 管理员。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;提醒功能，直接@用户名，比如 @&lt;a href=&quot;/member/%E5%B0%8F%E4%BA%8C&quot;&gt;小二&lt;/a&gt; ，也可以@用...
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>建议开辟一个板块专门号召大家收集整理这次武汉肺炎相关被删除的报道等</title>
+		<id>https://2049bbs.github.io/t/2861</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2861" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2861.html?env=dev" />
+		<published>2020-02-06T15:00:00+08:00</published>
+		<updated>2020-02-07T01:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;虽然由 Github 这一个可以协作的平台，但因为其为程序员设计，导致交互体验让非程序员望而却步。提高了协作参与的门槛，但 2049 作为一个社区，除了不能上传附件外，交互较为顺畅。&lt;/p&gt;
+
+&lt;p&gt;若能开辟一个板块号召大家收集整理资料，记录下这次事件中哪怕非常弱小的声音，也是非常有意义的一件事。&lt;/p&gt;
+
+&lt;p&gt;另外，本人一直在做的项目，将页面生成 markdown 文档，通过 gi...
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>正式支持 markdown 了</title>
+		<id>https://2049bbs.github.io/t/1595</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1595" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1595.html?env=dev" />
+		<published>2019-10-26T00:00:00+08:00</published>
+		<updated>2020-01-23T12:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;markdown 还是要学习一个：&lt;a href=&quot;https://www.jianshu.com/p/191d1e21f7ed&quot;&gt;https://www.jianshu.com/p/191d1e21f7ed&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;这里是二级标题两个&quot;&gt;&lt;a href=&quot;#%E8%BF%99%E9%87%8C%E6%98%AF%E4%BA%8C%E7%BA%A7%E6%A0...
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>【RFC-005】管理架构说明及管理员操作指南</title>
+		<id>https://2049bbs.github.io/t/2492</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2492" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2492.html?env=dev" />
+		<published>2020-01-13T22:45:00+08:00</published>
+		<updated>2020-01-21T09:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;本站管理员目前由小二指定，选择标准是小二信任并且能够为论坛做贡献。&lt;/p&gt;
+
+&lt;p&gt;所以管理员权限完全一致，没有超级管理员与普通管理员的区别（其他管理员有权限取消小二的管理员权限）。&lt;/p&gt;
+
+&lt;p&gt;管理员在管理操作时无需暴露身份，用户对管理员操作有异议，可以在水区投诉小二，管理员由小二指定，小二为所有管理员操作负责。&lt;/p&gt;
+
+&lt;p&gt;管理员操作手段有：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li...
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>支持切换为老界面啦！右上角设置中选择经典界面即可</title>
+		<id>https://2049bbs.github.io/t/2511</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2511" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2511.html?env=dev" />
+		<published>2020-01-15T02:15:00+08:00</published>
+		<updated>2020-01-15T13:00:00+08:00</updated>
+		<content type="text/html">
+		    
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>再次大改版完成，欢迎拍砖</title>
+		<id>https://2049bbs.github.io/t/2471</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2471" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2471.html?env=dev" />
+		<published>2020-01-12T21:00:00+08:00</published>
+		<updated>2020-01-14T13:30:00+08:00</updated>
+		<content type="text/html">
+		    
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>【RFC-004】管理员有权处理非原创全文转载内容</title>
+		<id>https://2049bbs.github.io/t/2491</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2491" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2491.html?env=dev" />
+		<published>2020-01-13T22:45:00+08:00</published>
+		<updated>2020-01-13T22:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;全文转载非 404 内容，首先是对原作者和原网站权益的侵犯，未获授权全文转载有侵权的问题；其次，全文转载时，很多发帖者只是简单复制粘贴，没有文章总结，没有推荐语，显得生硬和突兀，不利于其他用户参与讨论；最后，开放的互联网鼓励相互链接，而不是围墙花园。&lt;/p&gt;
+
+&lt;p&gt;说明，原网站存在安全风险或者原文有被删除风险不受此限制，原创及衍生作品不受此限制，如&lt;a href=&quot;https://2...
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>注销功能正式上线</title>
+		<id>https://2049bbs.github.io/t/2326</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2326" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2326.html?env=dev" />
+		<published>2019-12-21T12:45:00+08:00</published>
+		<updated>2019-12-22T10:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;h3 id=&quot;注销方法&quot;&gt;&lt;a href=&quot;#%E6%B3%A8%E9%94%80%E6%96%B9%E6%B3%95&quot;&gt;&lt;/a&gt;注销方法&lt;/h3&gt;
+
+&lt;p&gt;在水区发帖，标题包含「请管理员注销本帐号」&lt;/p&gt;
+
+&lt;h3 id=&quot;说明&quot;&gt;&lt;a href=&quot;#%E8%AF%B4%E6%98%8E&quot;&gt;&lt;/a&gt;说明&lt;/h3&gt;
+
+&lt;p&gt;用户注销后，全部回帖内容会被隐藏，显示为&lt;del&gt;用户已注销，隐...
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>致站长: 勿步V2EX后尘</title>
+		<id>https://2049bbs.github.io/t/1967</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1967" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1967.html?env=dev" />
+		<published>2019-11-25T15:30:00+08:00</published>
+		<updated>2019-12-19T13:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;@&lt;a href=&quot;/member/1&quot;&gt;1&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;之前论坛丢一天数据, 你不发站务发吐槽&lt;/li&gt;
+  &lt;li&gt;前天要你解决”异世界帖”, 至今没动静&lt;/li&gt;
+  &lt;li&gt;刚刚发现/member/*?act=reply居然隐藏水/时政节点的主题&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;此些操作严重伤害了本站的一致与透明&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;丢一天...
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>个人希望增加的两个功能。</title>
+		<id>https://2049bbs.github.io/t/2254</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2254" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2254.html?env=dev" />
+		<published>2019-12-14T02:00:00+08:00</published>
+		<updated>2019-12-14T20:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;1.收藏帖子与回复&lt;/p&gt;
+
+&lt;p&gt;2.优化翻页&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>关于新界面，请拍砖</title>
+		<id>https://2049bbs.github.io/t/2042</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2042" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2042.html?env=dev" />
+		<published>2019-11-28T13:30:00+08:00</published>
+		<updated>2019-12-12T04:45:00+08:00</updated>
+		<content type="text/html">
+		    
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+	<entry>
+		<title>节点订阅功能已上线</title>
+		<id>https://2049bbs.github.io/t/1860</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1860" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1860.html?env=dev" />
+		<published>2019-11-18T19:00:00+08:00</published>
+		<updated>2019-12-12T04:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;https://2049bbs.xyz/feed/节点id&lt;/code&gt;，如&lt;a href=&quot;https://2049bbs.xyz/feed/5&quot;&gt;https://2049bbs.xyz/feed/5&lt;/a&gt;订阅分享发现节点。&lt;/p&gt;
+
+		</content>
+		<category term="站务" />
+    </entry>
+    
+
+</feed>

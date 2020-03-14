@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	
+
+	<title>2049BBS | 2049</title>
+
+	<link rel="self" type="application/atom+xml" href="https://2049bbs.github.io/feed/16.xml"/>
+	<link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+
+	<updated>2020-03-14T09:57:17+08:00</updated>
+
+	<id>https://2049bbs.github.io/feed/16.xml</id>
+
+	<author>
+		<name>2049BBS</name>
+	</author>
+	
+	
+    
+	<entry>
+		<title>发哨子的人</title>
+		<id>https://2049bbs.github.io/t/3382</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3382" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3382.html?env=dev" />
+		<published>2020-03-10T14:15:00+08:00</published>
+		<updated>2020-03-11T12:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;2019 年 12 月 30 日，艾芬曾拿到过一份不明肺炎病人的病毒检测报告，她用红色圈出「SARS 冠状病毒」字样，当大学同学问起时，她将这份报告拍下来传给了这位同是医生的同学。当晚，这份报告传遍了武汉的医生圈，转发这份报告的人就包括那 8 位被警方训诫的医生。&lt;/p&gt;
+
+&lt;p&gt;这给艾芬带来了麻烦，作为传播的源头，她被医院纪委约谈，遭受了「前所未有的、严厉的斥责」，称她是作为专业人士...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>​​今天是国际妇女节，祝女性朋友们节日快乐！</title>
+		<id>https://2049bbs.github.io/t/3351</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3351" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3351.html?env=dev" />
+		<published>2020-03-08T23:00:00+08:00</published>
+		<updated>2020-03-08T23:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;近几年来，微博上的言论空间日益逼仄，很多公共话题都无法谈论，但有一类话题的讨论一直非常热烈，即便遭遇打压也依然生生不息，那就是与性别相关的话题。&lt;/p&gt;
+
+&lt;p&gt;为何如此？我想一方面是因为这个话题有很多相对“软性”的角度，没有那么敏感；另一方面则是因为，它与一半人口的生命体验息息相关。&lt;/p&gt;
+
+&lt;p&gt;性别议题的奇妙之处在于，它可以缩得很小，纯粹关注个体经验；它也可以放得很大，因为它的...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>徐贲：习惯性犬儒与知识分子犬儒</title>
+		<id>https://2049bbs.github.io/t/3319</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3319" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3319.html?env=dev" />
+		<published>2020-03-06T23:45:00+08:00</published>
+		<updated>2020-03-07T17:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://be4.herokuapp.com/topic/61/%E5%BE%90%E8%B4%B2-%E4%B9%A0%E6%83%AF%E6%80%A7%E7%8A%AC%E5%84%92%E4%B8%8E%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E7%8A%AC%E5%84%92&quot;&gt;徐贲：习惯性犬儒与知识分子犬儒&lt;/a&gt;&lt;/...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>THECITIZENLAB 报告：中国社交媒体如何管控疫情信息</title>
+		<id>https://2049bbs.github.io/t/3320</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3320" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3320.html?env=dev" />
+		<published>2020-03-07T00:30:00+08:00</published>
+		<updated>2020-03-07T00:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://citizenlab.ca/2020/03/censored-contagion-how-information-on-the-coronavirus-is-managed-on-chinese-social-media/&quot;&gt;https://citizenlab.ca/2020/03/censored-contagion-how-information...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>2020新冠肺炎记忆</title>
+		<id>https://2049bbs.github.io/t/3253</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3253" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3253.html?env=dev" />
+		<published>2020-03-01T22:45:00+08:00</published>
+		<updated>2020-03-02T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;该项目收录了2020年新型冠状病毒肺炎（WHO 命名 COVID-19，中国卫健委曾命名 Novel Coronavirus Pneumonia, NCP）相关的媒体报道、非虚构作品和亲历者个人叙述。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://2019ncovmemory.github.io/nCovMemory/&quot;&gt;https://2019ncovmemory.github....
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>【help-wanted】端点星项目需要支援</title>
+		<id>https://2049bbs.github.io/t/2848</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2848" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2848.html?env=dev" />
+		<published>2020-02-05T18:00:00+08:00</published>
+		<updated>2020-02-18T21:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://github.com/Terminus2049/Terminus2049.github.io/issues&quot;&gt;https://github.com/Terminus2049/Terminus2049.github.io/issues&lt;/a&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;据我观察，最近两天删贴活动力...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>台湾媒体对武汉肺炎报道很即时，多关注</title>
+		<id>https://2049bbs.github.io/t/2756</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2756" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2756.html?env=dev" />
+		<published>2020-02-01T08:30:00+08:00</published>
+		<updated>2020-02-16T17:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;中央社 武漢肺炎疫情专题&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cna.com.tw/topic/newstopic/2012.aspx&quot;&gt;https://www.cna.com.tw/topic/newstopic/2012.aspx&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;消息相对来说非常即时和全面&lt;/p&gt;
+
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>海外华人自发的捐助活动还是相当让人感动的</title>
+		<id>https://2049bbs.github.io/t/2804</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2804" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2804.html?env=dev" />
+		<published>2020-02-03T20:45:00+08:00</published>
+		<updated>2020-02-06T14:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;以前国内闹地震、水灾等各种灾情，海外华人也踊跃捐助，一般都是跟国务院侨办和使馆比较熟悉的老牌侨领们组织和参与，通过的也都是官方渠道。不过，老一代华侨虽然慷慨解囊，但不少人也抱有私心，希望换得一点政治资本，比如被官方封个“侨领”头衔，跟使馆和当地的领导拉拉近乎，受到政府表彰嘉奖什么的。&lt;/p&gt;
+
+&lt;p&gt;但这次的捐助不同，好多新一代移民积极参与，他们一般都是通过留学就业等途径留在当地。他们...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>高能预警</title>
+		<id>https://2049bbs.github.io/t/2788</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2788" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2788.html?env=dev" />
+		<published>2020-02-02T23:30:00+08:00</published>
+		<updated>2020-02-03T01:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2020/02/02/OM6bXyhYnl3EAZv.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>【HELP-WANTED】请求协助整理台湾人权促进会2015冬季号《抗争防身手册》</title>
+		<id>https://2049bbs.github.io/t/2775</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2775" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2775.html?env=dev" />
+		<published>2020-02-02T12:45:00+08:00</published>
+		<updated>2020-02-02T15:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://www.tahr.org.tw/content/1687&quot;&gt;https://www.tahr.org.tw/content/1687&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;现在只有繁体竖排pdf版本，非常不便于阅读和传播。我打算整理成简体网页版，如果谁能直接联系到台湾人权促进会，拿到非pdf版本，就能大大加快工作进度。&lt;/p&gt;
+
+&lt;p&gt;当然，如果拿不到的话，只能靠手...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>谎言与泡沫的代价——苏联解体</title>
+		<id>https://2049bbs.github.io/t/2717</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2717" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2717.html?env=dev" />
+		<published>2020-01-28T14:45:00+08:00</published>
+		<updated>2020-01-30T14:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/DUuMfWpLASiYxuGhcHIxuQ&quot;&gt;https://mp.weixin.qq.com/s/DUuMfWpLASiYxuGhcHIxuQ&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;当时的苏联最高领导人戈尔巴乔夫曾经语出惊人地说：“切尔诺贝利核事故可能成为5年之后苏联解体的真正原因，其重要程度甚...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>武汉肺炎时间线</title>
+		<id>https://2049bbs.github.io/t/2682</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2682" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2682.html?env=dev" />
+		<published>2020-01-25T23:45:00+08:00</published>
+		<updated>2020-01-28T04:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://chinatimeline.github.io/wuhan-coronavirus/&quot;&gt;https://chinatimeline.github.io/wuhan-coronavirus/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;目前武汉肺炎爆发事件是重大新闻事件，无论是维基百科还是主流媒体都对这件事的覆盖较为全面。&lt;/p&gt;
+
+&lt;p&gt;如果大家有兴趣，可以去这里作一个自...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>这里网安公司正式收到了攻击反动网站指示</title>
+		<id>https://2049bbs.github.io/t/2116</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2116" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2116.html?env=dev" />
+		<published>2019-12-04T17:00:00+08:00</published>
+		<updated>2020-01-28T01:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;网信办开会议要求新年加强论坛管制。特别指出丰富拦截列表，对境外论坛做“安全测试”，“上报漏洞”，“根据技术能力增加合作机会”。虽然网信办说的不激进，但是会场的各位都明白。&lt;/p&gt;
+
+&lt;p&gt;之前也经常有过类似会议，这次直接了当的指名了攻击境外论坛，还以合作机会做奖励。估计其他省也开始了攻击计划。中共这种商业模式恶意利用公司，还敢自称共产主义，迟早葬送中国。 &lt;img src=&quot;https...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>今天又被知乎恶心到了，然后有个想法</title>
+		<id>https://2049bbs.github.io/t/1166</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1166" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1166.html?env=dev" />
+		<published>2019-05-09T21:42:00+08:00</published>
+		<updated>2020-01-23T09:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;关于定时爬取知乎热门社会性事件问题下的内容&lt;/p&gt;
+
+&lt;p&gt;经常发生社会性新闻后，知乎上的东西就会被删掉。关键是被删的回答和问题总是很“精华”的。 因此我在想，既然全站爬取知乎内容比较难，为何不搞一个项目专门在热点事件发生时，第一时间让爬虫去监控对应的知乎问题下的所有内容呢？&lt;/p&gt;
+
+&lt;p&gt;然后把数据公开。比如利用Github API存到Github上。当然，提供良好的前端页面的话，...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>【404文章】胡泳：谣言作为一种社会抗议</title>
+		<id>https://2049bbs.github.io/t/2622</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2622" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2622.html?env=dev" />
+		<published>2020-01-22T13:45:00+08:00</published>
+		<updated>2020-01-23T00:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;备份：&lt;a href=&quot;http://206.189.252.32:8083/%E8%83%A1%E6%B3%B3%EF%BC%9A%E8%B0%A3%E8%A8%80%E4%BD%9C%E4%B8%BA%E4%B8%80%E7%A7%8D%E7%A4%BE%E4%BC%9A%E6%8A%97%E8%AE%AE.html&quot;&gt;http://206.189.252.32:8083/胡泳：谣...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>如何识别第三方广告跟踪代码及 &amp; social impact 项目的倡议</title>
+		<id>https://2049bbs.github.io/t/2374</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2374" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2374.html?env=dev" />
+		<published>2019-12-30T00:15:00+08:00</published>
+		<updated>2020-01-22T14:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;最近发现达摩俱乐部、civicforum 和chinatimeline项目都有用户分析程序：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;达摩俱乐部（&lt;a href=&quot;https://github.com/DamoresClub/DamoresClub.github.io/commit/fc53d49ef16b9f507fd96cd4f91e6d8830b4d5ca&quot;&gt;https://github...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>土耳其解除对维基百科的封禁</title>
+		<id>https://2049bbs.github.io/t/2541</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2541" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2541.html?env=dev" />
+		<published>2020-01-17T22:00:00+08:00</published>
+		<updated>2020-01-18T11:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://www.solidot.org/story?sid=63282&quot;&gt;https://www.solidot.org/story?sid=63282&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;宪法法庭裁决封禁维基百科违法，然后……解禁了&lt;/p&gt;
+
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>好奇心日报伊险峰十年专访丨不该忽视那些显而易见的存在</title>
+		<id>https://2049bbs.github.io/t/2510</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2510" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2510.html?env=dev" />
+		<published>2020-01-14T21:15:00+08:00</published>
+		<updated>2020-01-14T22:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://terminus2049.github.io/archive/2020/01/14/archipelago-interview-Yixianfeng.html&quot;&gt;https://terminus2049.github.io/archive/2020/01/14/archipelago-interview-Yixianfeng.html&lt;/a&gt;&lt;/p&gt;
+...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>中国大事件时间线网站全面改版</title>
+		<id>https://2049bbs.github.io/t/2401</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2401" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2401.html?env=dev" />
+		<published>2020-01-04T03:15:00+08:00</published>
+		<updated>2020-01-13T22:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://chinatimeline.github.io/&quot;&gt;https://chinatimeline.github.io/&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;更新了数据仓库 &lt;a href=&quot;https://github.com/chinatimeline/data/&quot;&gt;https://github.com/chinatimeline/data/&lt;/a...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>红卫兵——破坏秩序还是挑战权威？</title>
+		<id>https://2049bbs.github.io/t/2490</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/2490" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/2490.html?env=dev" />
+		<published>2020-01-13T21:45:00+08:00</published>
+		<updated>2020-01-13T21:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;文化大革命时期的青年一代扮演了非常重要的角色，他们既是“红卫兵”的主要构成力量，对文革灾难负有重要责任；同时在文化教育受到严重破坏的十年中，他们也是受害者。德国之声采访了北京大学教授、文革研究学者印红标。&lt;/p&gt;
+
+&lt;p&gt;德国之声中文网：谈到文化大革命中的青年一代，人们立刻会联想到”红卫兵”，以及他们所谓”造反有理、革命无罪”的信条。一方面他们给社会文化、经济秩序造成了很大的破坏，另一...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+
+</feed>
